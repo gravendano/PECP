@@ -7,3 +7,7 @@ numpy
 matplotlib
 openpyxl
 numpy-financial
+streamlit
+pandas
+xlsxwriter
+openpyxl
